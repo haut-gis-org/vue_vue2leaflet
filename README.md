@@ -20,4 +20,5 @@ npm run build --report
 
 ## 项目日志
 [Vue2Leaflet的使用](https://frytea.com/2019/03/03/vue-xiang-mu-shi-yong-vue2leaflet-cha-jian-shi-xian-di-tu-xian-shi/)
+---
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
